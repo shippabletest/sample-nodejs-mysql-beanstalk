@@ -1,8 +1,8 @@
 branch-defaults:
   master:
-    environment: e-zvcgebsph9
+    environment: samplenodejs
 global:
-  application_name: http://samplenodejs-yukzeprzzt.elasticbeanstalk.com/
+  application_name: samplenodejs
   default_platform: node.js
   default_region: us-west-2
   profile: eb-cli
