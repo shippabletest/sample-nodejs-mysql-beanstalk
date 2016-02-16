@@ -1,8 +1,9 @@
 branch-defaults:
   master:
-    environment: samplenodejs
+    environment: samplenodejsapp
+    environment-id: e-xxztcyuzem
 global:
-  application_name: samplenodejs
+  application_name: samplenodejsapp
   default_platform: node.js
   default_region: us-east-1
   profile: eb-cli
