@@ -4,6 +4,6 @@ branch-defaults:
 global:
   application_name: samplenodejs
   default_platform: node.js
-  default_region: us-west-2
+  default_region: us-east-1
   profile: eb-cli
   sc: git
