@@ -8,3 +8,5 @@ global:
   default_region: us-east-1
   profile: eb-cli
   sc: git
+  Do you want to set up SSH for your instances?
+  (y/n): y
