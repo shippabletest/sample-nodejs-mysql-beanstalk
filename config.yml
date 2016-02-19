@@ -1,6 +1,6 @@
 branch-defaults:
   master:
-    environment: nodeapp
+    environment: node-app-source
     environment-id: e-dshccnksfu
     URL: nodeapp.bd4cre3cz3.us-east-1.elasticbeanstalk.com
 global:
@@ -11,5 +11,3 @@ global:
   sc: git
   Environment tier: Web Server
   Running versions: node-app-source
-  Last modified: 2016-02-17 14:45:10 UTC+0530
-  URL: nodeapp.bd4cre3cz3.us-east-1.elasticbeanstalk.com
