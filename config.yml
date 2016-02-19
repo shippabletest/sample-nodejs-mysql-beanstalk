@@ -9,6 +9,7 @@ global:
   default_region: us-east-1
   profile: eb-cli
   sc: git
-  ssh_instance: yes
-  ssh-keygen: 1
-  
+  Environment tier: Web Server
+  Running versions: node-app-source
+  Last modified: 2016-02-17 14:45:10 UTC+0530
+  URL: nodeapp.bd4cre3cz3.us-east-1.elasticbeanstalk.com
