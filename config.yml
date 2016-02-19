@@ -9,6 +9,6 @@ global:
   default_region: us-east-1
   profile: eb-cli
   sc: git
-  SSH: yes
+  ssh_instance: yes
   ssh-keygen: 1
   
