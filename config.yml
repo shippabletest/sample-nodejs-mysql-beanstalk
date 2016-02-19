@@ -2,11 +2,11 @@ branch-defaults:
   master:
     environment: nodeapp
     environment-id: e-dshccnksfu
+    URL: nodeapp.bd4cre3cz3.us-east-1.elasticbeanstalk.com
 global:
   application_name: nodeapp
   default_platform: node.js
   default_region: us-east-1
   profile: eb-cli
   sc: git
-  Do you want to set up SSH for your instances?
-  (y/n): y
+  
