@@ -1,8 +1,8 @@
 branch-defaults:
   master:
-    environment: node-app-source
-    environment-id: e-dshccnksfu
-    URL: nodeapp.bd4cre3cz3.us-east-1.elasticbeanstalk.com
+    environment: Default-Environment
+    environment-id: e-x3mqpdfrvr
+    URL: Default-Environment.ppwmbw8cg9.us-east-1.elasticbeanstalk.com 
 global:
   application_name: nodeapp
   default_platform: node.js
